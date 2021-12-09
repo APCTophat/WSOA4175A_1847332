@@ -24,7 +24,7 @@ function App() {
     <div className="App">
       <Navbar/>
       <Switch>
-        <Route exact path='/' component={Home}/>
+        <Route exact path='/WSOA4175A_1847332' component={Home}/>
         <Route exact path='/menu' component={Menu}/>
         <Route exact path='/about' component={About}/>
     

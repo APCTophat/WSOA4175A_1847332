@@ -8,11 +8,8 @@ export default class Home extends Component {
         return (
             <div className="home" style={{ backgroundImage: `url(${HomepageBanner})`}}>
                 <div className="headerContainer">
-                    <h1>Some Filler stuff</h1>
-                    <p>Look more filler stuff</p>
-                    <Link to="/Menu">
-                    <button>Press the Button</button>
-                    </Link>
+                    <p>Content is still to come for the home page</p>
+                    
                 </div>
             </div>
         )

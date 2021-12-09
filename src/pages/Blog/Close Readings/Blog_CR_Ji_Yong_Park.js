@@ -24,7 +24,7 @@ export default class Blog_CR_Ji_Yong_Park extends Component {
   <p>Secondly, I disagree with the Anarchical structure that states that Net Art exists outside the ‘Capital’ nature of other art forms. A user may not be limited by the ‘material costs’ of paint or clay but they are limited to technological costs. A person cannot will a website into being without ‘capital’ to buy a machine that can create Net Art. Basically, I do not believe that Net Art exists outside of the need for ‘capital’ to make itself.</p>
 <p>But overall, I do agree with most things that paper is saying. It has taken an analytical approach of breaking down a phenomena ‘Net Art’ and used it to help explain how to create a better user experience.</p>
 
-       <p>THE GOOBER</p>   
+    
   </div>
   </div>
   </div>

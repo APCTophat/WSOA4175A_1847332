@@ -31,7 +31,7 @@ export default class Navbar extends Component {
                    
                         <div className="hiddenLinks">
                         
-                        <Link to='/' className="Button-Container">Home</Link> 
+                        <Link to='/WSOA4175A_1847332' className="Button-Container">Home</Link> 
                         <Link to='/About' className="Button-Container">About</Link> 
                         <div className="Button-Container">
                         <a className="MenuButton">Blogs</a>
@@ -67,7 +67,7 @@ export default class Navbar extends Component {
                     </div>
                     <div className="rightSide">
 
-                        <Link to='/' className="Button-Container">Home</Link> 
+                        <Link to='/WSOA4175A_1847332' className="Button-Container">Home</Link> 
                         <Link to='/About' className="Button-Container">About</Link> 
                       
                         <div className="Button-Container">
