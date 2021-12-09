@@ -1,0 +1,42 @@
+/*MainColours: Black-#030303 , Slate-#7B9AA0, Blue Grey-#4D6470, Misty Blue-#A3BAC0*/
+.BGI{
+    width: 100%;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Gill Sans", sans-serif;
+}
+
+
+#Blog-Heading{
+    color: ghostwhite;
+}
+
+#BlogContentArea{
+    background-color: rgb(221, 221, 221);
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 2%;
+    max-width: 80%;
+    margin: auto;
+    margin-bottom: 1%;
+}
+
+#AR_1_IMG{
+    max-width: 30%; 
+   
+}
+
+#AR_2_IMG{
+    max-width: 80%; 
+}
+
+#EndlessHorse_IMG{
+    max-width: 50%; 
+  
+}
+
+#IndirectFlight_IMG{
+    max-width: 70%;
+}
