@@ -83,7 +83,7 @@ export default class Navbar extends Component {
                             <Link to='/Blog/Close-Reading/Ji_Yong_Park'>Ji Yong Parks reading</Link>
                             <Link to='/Blog/Close-Reading/McNamara'>Mcnamara reading</Link>
 
-                            <div class="MenuTitle">Close Readings</div>
+                            <div class="MenuTitle">Artistic Reflection</div>
                             <Link to='/Blog/Art-Reflection/Enless_Horse'>Endless horse Artwork</Link>
                             <Link to='/Blog/Art-Reflection/Indirect_Flights'>Indirect Flights Artwork</Link>
 
