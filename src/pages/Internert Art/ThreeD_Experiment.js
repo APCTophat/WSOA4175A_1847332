@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import '../../styles/ThreeDExperiment.css';
 import '../../helpers/TextExperimentLogic.js';
+import OtterIcon from "../../assets/Otter-Button-Icon.png";
 
 export default class ThreeD_Experiment extends Component {
 
@@ -40,6 +41,8 @@ export default class ThreeD_Experiment extends Component {
             The more this project continues the more I am leaning away from the idea of incorporating a ‘3D Element’ into the sight. However, that does not mean I want to shy away from creating a 3D experience. I would like to incorporate effects such as parallax to cheat the 3D affect. For my final project I hope to create a 3D feeling without needing to build a ‘real’ 3D space.
         </p>
 
+        <a id='Otter' href="https://www.youtube.com/watch?v=G8iEMVr7GFg" target="_blank"> <img  alt='illustration of an otter wearing a space helmet' src={OtterIcon}/></a>
+            
             </div>
         )
     }

@@ -40,3 +40,12 @@
 #IndirectFlight_IMG{
     max-width: 70%;
 }
+
+#OldDiagram{
+    max-width: 50%;
+}
+
+#WireFrame{
+    max-width: 50%;
+    width: 400px;
+}

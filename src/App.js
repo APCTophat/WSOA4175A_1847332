@@ -16,8 +16,13 @@ import Blog_AR_Endless_Horse from './pages/Blog/Internet Art Reflection/Blog_AR_
 import Blog_AR_Indirect_Flights from './pages/Blog/Internet Art Reflection/Blog_AR_Indirect_Flights' 
 import Blog_AR_1 from './pages/Blog/Reflection-Artistic/Blog_AR_1';
 import Blog_AR_2 from './pages/Blog/Reflection-Artistic/Blog_AR_2';
+import Blog_AR_3 from './pages/Blog/Reflection-Artistic/Blog_AR_3';
 import Blog_TR_1 from './pages/Blog/Reflection-Technical/Blog_TR_1';
 import Blog_TR_2 from './pages/Blog/Reflection-Technical/Blog_TR_2';
+import Blog_TR_3 from './pages/Blog/Reflection-Technical/Blog_TR_3';
+
+import Internet_Art_Rational from './pages/Blog/Rational/Internet_Art_Rational';
+import Inital_Art_Proposal from './pages/Blog/Rational/Inital_Art_Proposal';
 
 function App() {
   return (
@@ -25,7 +30,6 @@ function App() {
       <Navbar/>
       <Switch>
         <Route exact path='/WSOA4175A_1847332' component={Home}/>
-        <Route exact path='/menu' component={Menu}/>
         <Route exact path='/about' component={About}/>
     
         <Route exact path='/Internet_Art/Text_Experiment' component={Text_Experiment}/>
@@ -36,10 +40,16 @@ function App() {
         <Route exact path='/Blog/Close-Reading/McNamara' component={Blog_CR_McNamara}/>
         <Route exact path='/Blog/Art-Reflection/Enless_Horse' component={Blog_AR_Endless_Horse}/>
         <Route exact path='/Blog/Art-Reflection/Indirect_Flights' component={Blog_AR_Indirect_Flights}/>
+
         <Route exact path='/Blog/Reflection-Artistic/01-10-2021' component={Blog_AR_1}/>
         <Route exact path='/Blog/Reflection-Artistic/08-11-2021' component={Blog_AR_2}/>
+        <Route exact path='/Blog/Reflection-Artistic/10-12-2021' component={Blog_AR_3}/>
         <Route exact path='/Blog/Reflection-Technical/01-10-2021' component={Blog_TR_1}/>
         <Route exact path='/Blog/Reflection-Technical/08-11-2021' component={Blog_TR_2}/>
+        <Route exact path='/Blog/Reflection-Technical/10-12-2021' component={Blog_TR_3}/>
+
+        <Route exact path='/Blog/Rational/Internet_Art_Rational' component={Internet_Art_Rational}/>
+        <Route exact path='/Blog/Rational/Inital_Art_Propsal' component={Inital_Art_Proposal}/>
       </Switch>
       <Footer/>
 

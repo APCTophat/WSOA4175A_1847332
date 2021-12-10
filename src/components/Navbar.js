@@ -47,11 +47,17 @@ export default class Navbar extends Component {
                             <div class="MenuTitle">Artistic Reflection</div>
                             <Link to='/Blog/Reflection-Artistic/01-10-2021'>Date: 01/10/2021</Link>
                             <Link to='/Blog/Reflection-Artistic/08-11-2021'>Date: 08/11/2021</Link>
+                            <Link to='/Blog/Reflection-Artistic/10-12-2021'>Date: 10/12/2021</Link>
 
                             <div class="MenuTitle">Technical Reflection</div>
                             <Link to='/Blog/Reflection-Technical/01-10-2021'>Date: 01/10/2021</Link>
                             <Link to='/Blog/Reflection-Technical/08-11-2021'>Date: 08/11/2021</Link>
+                            <Link to='/Blog/Reflection-Technical/10-12-2021'>Date: 10/12/2021</Link>
+
                             
+                            <div class="MenuTitle">The blog about Patrick</div>
+                            <Link to='/Blog/Rational/Inital_Art_Propsal'>Inital propsal</Link>
+                            <Link to='/Blog/Rational/Internet_Art_Rational'>My internet artwork's rational </Link>
                             </div>
                         </div>
                         <div className="Button-Container">
@@ -84,11 +90,18 @@ export default class Navbar extends Component {
                             <div class="MenuTitle">Artistic Reflection</div>
                             <Link to='/Blog/Reflection-Artistic/01-10-2021'>Date: 01/10/2021</Link>
                             <Link to='/Blog/Reflection-Artistic/08-11-2021'>Date: 08/11/2021</Link>
+                            <Link to='/Blog/Reflection-Artistic/10-12-2021'>Date: 10/12/2021</Link>
 
                             <div class="MenuTitle">Technical Reflection</div>
                             <Link to='/Blog/Reflection-Technical/01-10-2021'>Date: 01/10/2021</Link>
                             <Link to='/Blog/Reflection-Technical/08-11-2021'>Date: 08/11/2021</Link>
+                            <Link to='/Blog/Reflection-Technical/10-12-2021'>Date: 10/12/2021</Link>
+
                             
+                            <div class="MenuTitle">The blog about Patrick</div>
+                            <Link to='/Blog/Rational/Inital_Art_Propsal'>Inital propsal</Link>
+                            <Link to='/Blog/Rational/Internet_Art_Rational'>My internet artwork's rational </Link> 
+                          
                             </div>
                         </div>
                        

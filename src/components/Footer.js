@@ -1,17 +1,15 @@
-import React, { Component } from 'react'
-import InstagramIcon from '@mui/icons-material/Instagram';
-import FacebookIcon from '@mui/icons-material/Facebook';
-import TwitterIcon from '@mui/icons-material/Twitter';
+import React, { Component } from 'react';
 import "../styles/Footer.css";
+import OtterIcon from "../assets/Otter-Button-Icon.png";
 
 export default class Footer extends Component {
     render() {
         return (
             <div className="footer">
-                <div className="socialMedia">
-                    <p>&copy; 2021 Some Filler</p>
-                    <InstagramIcon/><FacebookIcon/>  <TwitterIcon/>
-                </div>
+                
+                    <p>Alexandre Carvalho 1847332 &copy; 2021</p>
+                    <a href="https://www.youtube.com/watch?v=YJWSAJjkTsI" target="_blank"> <img src={OtterIcon}/></a>
+                
             </div>
         )
     }

@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import backGroundImage from '../../../assets/Background-2.png';
 import '../../../styles/Blog.css';
+import OtterIcon from "../../../assets/Otter-Button-Icon.png";
 export default class Blog_CR_McNamara extends Component {
     render() {
         return (
@@ -21,6 +22,7 @@ export default class Blog_CR_McNamara extends Component {
         <li>How open-source sites like Cornifer help smaller artists or groups</li>
         <li>There is limited space on Cornifer so maybe use another site if desperate.</li>
     </ul>
+    <a href="https://www.youtube.com/watch?v=yw8au5UaD-I" target="_blank"> <img  alt='illustration of an otter wearing a space helmet' src={OtterIcon}/></a>
     <p>My main takeaways from this article mainly concerns the first three points, so I will explore them in more depth. To begin with Flash became a tool or artistic expression over the internet, people could animate, make games or interactive experiences, or just experiment to see what they could do. </p> 
     <p>It was this thing that was accessible to people outside of traditional artistic institutions, where people had the freedom to experiment and learn and master what they wanted to. It was a wild west of creation, greatly impacting what the ‘internet’ looked and functioned like.</p>
     <p>Then the standardisations came along, with the internet shifting to social media platforms being the main access point of the internet for a wave of new people, this gave those major platforms the power to influence people’s expectations of what the internet was. This coupled with the fact that mobile devices were created not supporting Flash lead to a decline in its ‘relevance’ for the overall internet. The author highlights a caveat to Flash as a creation tool, the fact that is not owned by most people that use. If the owners of Flash decided to take it down (which they did) they own the right to do that and suddenly artists who learnt how to create in the medium have lost access to their tools.</p>

@@ -1,0 +1,20 @@
+#ContentArea{
+    background-image:url('../assets/Background-2.png');
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    font-family: sans-serif;
+    color: ghostwhite;
+}
+
+#ContentArea p{
+    width: 80%;
+    margin: auto;
+    
+}
+
+#ContentArea img{
+    padding: 5%;
+}
